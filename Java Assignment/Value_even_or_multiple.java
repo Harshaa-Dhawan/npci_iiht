@@ -29,7 +29,7 @@ public class Value_even_or_multiple {
 
     public static boolean isMultiple(int num1, int num2){
 
-        int remainder = num1 % num2;
+        int remainder = num2 % num1;
         boolean multiple;
 
         if (remainder != 0){
