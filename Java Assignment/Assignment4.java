@@ -1,6 +1,5 @@
 //Reverse fibonacci series till 100
 
-
 import java.io.*;
 
 class Assignment4 {
